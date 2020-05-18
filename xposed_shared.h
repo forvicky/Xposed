@@ -20,9 +20,9 @@
 #endif
 
 #if PLATFORM_SDK_VERSION >= 24
-#define XPOSED_DIR "/data/user_de/0/de.robv.android.xposed.installer/"
+#define XPOSED_DIR "/data/user_de/0/de.robv.android.xppsed.installer/"
 #else
-#define XPOSED_DIR "/data/data/de.robv.android.xposed.installer/"
+#define XPOSED_DIR "/data/data/de.robv.android.xppsed.installer/"
 #endif
 
 namespace xposed {
